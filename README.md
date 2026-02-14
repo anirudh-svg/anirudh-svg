@@ -107,12 +107,7 @@ Fine-tuning the Brain.
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anirudh-svg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=anirudh-svg&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-svg&theme=dark&hide_border=false&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=anirudh-svg&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly crafted by Anirudh -->
 
