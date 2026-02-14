@@ -17,7 +17,11 @@ Fine-tuning the Brain.
 ---
 
 ##  Socials:
+## 🌐 Socials:
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhan.m004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anirudh404/)
+
 
 ---
 
