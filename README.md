@@ -16,7 +16,7 @@ Fine-tuning the Brain.
 
 ---
 
-##  Socials:
+
 ##  Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhan.m004@gmail.com)
