@@ -117,9 +117,7 @@ Fine-tuning the Brain.
 
 
 
-##  Language Composition
 
-![Top Languages](https://github-profile-summary-cards.onrender.com/api/cards/repos-per-language?username=anirudh-svg&theme=github_dark)
 
 
 
