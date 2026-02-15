@@ -115,9 +115,12 @@ Fine-tuning the Brain.
 
 ---
 
+
+
 ##  Language Composition
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-svg&layout=compact&theme=dark&hide_border=true)
+![](https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=anirudh-svg&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 
