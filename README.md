@@ -114,7 +114,9 @@ Fine-tuning the Brain.
 ---
 ## Language Spice
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-svg&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=anirudh-svg&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&t=9999)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
