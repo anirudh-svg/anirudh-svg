@@ -112,9 +112,7 @@ Fine-tuning the Brain.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## Language Spice
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anirudh-svg&layout=compact&theme=vision-friendly-dark&cache_seconds=1800" />
 
 
 
