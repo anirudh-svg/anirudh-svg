@@ -114,9 +114,8 @@ Fine-tuning the Brain.
 ---
 ## Language Spice
 
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anirudh-svg&layout=compact&theme=vision-friendly-dark&cache_seconds=1800" />
----
+
 
 
 
