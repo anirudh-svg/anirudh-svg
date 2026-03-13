@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Retro Coding](https://p-u.popcdn.net/attachments/images/000/012/375/large/retro_gaming_pixel_art_by_pennuchi-d99v58v.gif)
+
 
 
 #  About Me:
