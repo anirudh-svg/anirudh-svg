@@ -8,7 +8,7 @@
 M Anirudhan AKA Anirudh 
 
 B.Tech CSE (Major) | AI & ML (Minor)  
-Full Stack Developer (Java, MERN) | DevOps Enthusiast  
+Full Stack Developer (Java, MERN) | Distributed System Enthusiast  
 Passionate about Software Testing & Scalable System Design  
 
 Designing the UI.  
